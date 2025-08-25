@@ -1,0 +1,33 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Sumukh Acharya      
+Email: sumukh.acharya@gmail.com
+
+JOB DESCRIPTION:
+----------------
+Job Title: DevOps Engineer     
+Company: CloudScale Technologies
+Location: Remote              
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 42.9% (3/7)
+Matched: Docker, Kubernetes, Python
+Missing: AWS, Terraform, Ansible, Bash
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 0.0% (0/5)
+Missing: AWS Certification, Azure, Prometheus, Grafana, Serverless Architecture
+
+WEIGHTED MATCH SCORE:32.1%
+
+FINAL RECOMMENDATION:
+---------------------
+LOW MATCH - NOT RECOMMENDED         

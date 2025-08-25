@@ -1,0 +1,33 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Sumukh Acharya      
+Email: sumukh.acharya@gmail.com
+
+JOB DESCRIPTION:
+----------------
+Job Title: Cybersecurity Analyst
+Company: SecureNet Systems   
+Location: Washington, DC      
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 14.3% (1/7)
+Matched: Linux
+Missing: Network Security, SIEM Tools, Firewalls, Vulnerability Assessment, Windows Server, Risk Management
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 0.0% (0/5)
+Missing: CISSP Certification, Ethical Hacking, Cloud Security, Python Scripting, Forensic Analysis
+
+WEIGHTED MATCH SCORE:10.7%
+
+FINAL RECOMMENDATION:
+---------------------
+LOW MATCH - NOT RECOMMENDED         

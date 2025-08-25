@@ -1,0 +1,32 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Not found           
+Email: Not found           
+
+JOB DESCRIPTION:
+----------------
+Job Title: Frontend Developer  
+Company: WebCraft Solutions  
+Location: San Francisco, CA   
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 0.0% (0/7)
+Missing: JavaScript, React, HTML5, CSS3, Redux, REST APIs, Git
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 0.0% (0/5)
+Missing: TypeScript, Next.js, GraphQL, Webpack, Jest Testing
+
+WEIGHTED MATCH SCORE:0.0%
+
+FINAL RECOMMENDATION:
+---------------------
+LOW MATCH - NOT RECOMMENDED         

@@ -1,0 +1,33 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Sumukh Acharya      
+Email: sumukh.acharya@gmail.com
+
+JOB DESCRIPTION:
+----------------
+Job Title: Frontend Developer  
+Company: WebCraft Solutions  
+Location: San Francisco, CA   
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 42.9% (3/7)
+Matched: JavaScript, React, Git
+Missing: HTML5, CSS3, Redux, REST APIs
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 0.0% (0/5)
+Missing: TypeScript, Next.js, GraphQL, Webpack, Jest Testing
+
+WEIGHTED MATCH SCORE:32.1%
+
+FINAL RECOMMENDATION:
+---------------------
+LOW MATCH - NOT RECOMMENDED         

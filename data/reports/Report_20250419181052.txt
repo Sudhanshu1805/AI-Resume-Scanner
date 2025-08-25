@@ -1,0 +1,34 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Computer Science    
+Email: sudhanshusingh1805@gmail.com
+
+JOB DESCRIPTION:
+----------------
+Job Title: Full Stack Developer
+Company: TechFusion Inc      
+Location: Austin, TX          
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 57.1% (4/7)
+Matched: JavaScript, Node.js, MongoDB, Git
+Missing: React, Express, RESTful APIs
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 20.0% (1/5)
+Matched: Docker
+Missing: TypeScript, AWS, GraphQL, CI/CD Pipelines
+
+WEIGHTED MATCH SCORE:47.9%
+
+FINAL RECOMMENDATION:
+---------------------
+MODERATE MATCH - REVIEW FURTHER     
