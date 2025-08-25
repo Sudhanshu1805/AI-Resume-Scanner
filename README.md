@@ -19,14 +19,14 @@ A Java-based automation pipeline to parse resumes, match them against job descri
 
 AI-Resume-Scanner/
 │── src/
-│   ├── Model/          # Data models & parsing logic
-│   ├── View/           # UI components
-│   ├── Controller/     # Business logic & flow
+│   ├── Model/         
+│   ├── View/           
+│   ├── Controller/     
 │   └── ResumeScannerApp.java   # Entry point
 │
-│── bin/                # Compiled bytecode
-│── lib/                # External libraries
-│── data/reports/       # Generated reports
+│── bin/                
+│── lib/                
+│── data/reports/
 
 -------------------------------------------------------------------------------
 
