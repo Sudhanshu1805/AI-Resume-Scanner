@@ -22,7 +22,7 @@ AI-Resume-Scanner/
 │   ├── Model/         
 │   ├── View/           
 │   ├── Controller/     
-│   └── ResumeScannerApp.java   # Entry point
+│   └── ResumeScannerApp.java 
 │
 │── bin/                
 │── lib/                
